@@ -1,2 +1,9 @@
-minutes:
-	find . -name \*.md -exec pandoc --toc --smart --variable geometry:"a4paper" {} -o `basename {} .md`.pdf  \; 
+clean:
+	find . -name \*.pdf -exec rm -f {} \; 
+
+pandoc:
+	bin/deep-pandoc.sh
+
+minutes: clean pandoc
+
+
