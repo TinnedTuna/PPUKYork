@@ -19,7 +19,7 @@ Establishing Ourselves as a Branch
 
 ### The University of York
 
-Our main aim is to get a stall at The University of York's ``Fresher's Fair''. 
+Our main aim is to get a stall at The University of York's ``Freshers Fair''. 
 To do this, we would need to have at least 3 people who are students at the 
 university to setup a university society (soc). 
 
@@ -71,7 +71,7 @@ We aim to expand past the university, but what we do after that is broadly up
 for grabs. At least one option is to start trying to gain a presence at other
 universities, for example, York St. John.
 
-Other short-term options are the York Skeptics in the Pub. Persephonne is 
+Other short-term options are the York Skeptics in the Pub. Persephone is 
 willing to give a talk, as the Open Rights Group have given a talk there in the
 past. One potential area that is of interest may be the Medical 
 Confidentiality campaign that has recently launched.
@@ -85,7 +85,7 @@ Actions
   2. Phil to contact Steve Wilson (Head of Party IT) about getting Persephone
      an email address, as well as a York branch-specific party email.
   3. Turner to research York Community Print (and other printing services) to
-     see if they can compete with our current print suppliers. Event if they 
+     see if they can compete with our current print suppliers. Even if they 
      are more expensive, having a backup is always good.
   4. Leanne to get the York website up and running as well as the social media
 
