@@ -61,3 +61,43 @@ Some postering ideas:
 
 The members of the branch will meet at least monthly, but ideally once every 
 two weeks.
+
+We would like to have some leafleting/campaigning in the city centre with a 
+stall. We would need some flyers, leaflets, perhaps the party banner (Phil may
+be able to borrow this from Andy/Loz). Other merchandise ideas include badges &
+pens -- these could go down well at fresher's fair.
+
+We aim to expand past the university, but what we do after that is broadly up
+for grabs. At least one option is to start trying to gain a presence at other
+universities, for example, York St. John.
+
+Other short-term options are the York Skeptics in the Pub. Persephonne is 
+willing to give a talk, as the Open Rights Group have given a talk there in the
+past. One potential area that is of interest may be the Medical 
+Confidentiality campaign that has recently launched.
+
+Actions
+=======
+
+  1. Persephone to email the socs (maybe the chairs/secretaries directly) to
+     try to get some form of relationship going and maybe get some 
+     opportunities to give talks.
+  2. Phil to contact Steve Wilson (Head of Party IT) about getting Persephone
+     an email address, as well as a York branch-specific party email.
+  3. Turner to research York Community Print (and other printing services) to
+     see if they can compete with our current print suppliers. Event if they 
+     are more expensive, having a backup is always good.
+  4. Leanne to get the York website up and running as well as the social media
+
+Next Meeting
+============
+
+The next meeting will take place on the 8^th^ of May, 2013, at Leanne and 
+Phil's house.
+
+Any Other Business
+==================
+
+Persephone wants to run for Press Officer. Phil will help Persephone.
+
+
