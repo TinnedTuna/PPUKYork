@@ -6,4 +6,6 @@ pandoc:
 
 minutes: clean pandoc
 
+dist: minutes
+	git push origin master
 
