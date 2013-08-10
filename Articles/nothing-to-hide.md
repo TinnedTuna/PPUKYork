@@ -5,59 +5,59 @@
 Overview
 ========
 
-In this article, which is adapted from a talk delivered to The University of
-York Philosophy Society, is an overview of the main arguments typically made 
-from the proponents of personal privacy in the modern world.
-
-It explores the more common "Nothing to Hide" argument, in which those who 
-believe in state or corporate surveillance claim that, if a person has nothing
-to hide (that is, they are not engaging in illegal or immoral activities), then
-they have nothing to fear. Put simply and more commonly, "If you have nothing 
-to hide, then you have nothing to fear"
-
-We explore this argument in the simplest and a much more complex form, and 
-present an overview of several existing counter-arguments and counter-examples.
+Adapted from a talk delivered to The University of
+York Philosophy Society, this article is an overview of the main arguments typically made 
+from the proponents of personal privacy in the modern world. It explores the 
+more common "Nothing to Hide" argument, in which those who believe in state or 
+corporate surveillance claim that "if you have nothing to hide, then you have 
+nothing to fear." However, this argument makes large assumptions as to the meaning
+of "nothing to hide", the purpose of privacy and how it applies within our legal and moral
+frameworks, and so in this article we will explore the various aspects of privacy and surveillance,  
+and present an overview of several existing counter-arguments and counter-examples.
 
 This article will leave out a huge debate which deals with other difficulties
 surrounding privacy. These difficulties primarily revolve around the trouble 
 that philosophers have had over even reaching a consistent definition of 
-privacy, and the numerous issues that this causes for legislators, jurors, etc.
+privacy, and the numerous issues that this causes for legislators, jurors, and common people. Although 
+this might seem like rather a large oversight, and certainly a natural starting point for such a debate,
+I considered it a greater imperative to arrive at a useful conclusion and circumvent the centuries of debate necessary
+to settle these conflicts of public interest, definition and logically consistent application, which are
+issues philosophy itself may take to its grave.  
 
 The Need for Privacy
 ====================
 
 The human need for privacy has been quite thoroughly explored for quite a long
 time, even as far back as the Greek philosophers, who divided life into two 
-distinct "spheres"; the "political sphere" where everything you did or said
-was expected to be public knowledge, used for making political decisions, for 
-example, during an election. The "intimate sphere" was expected to be 
+distinct "spheres": the "political" and the "intimate." The political sphere was one in which 
+everything you did or said was expected to be public knowledge, used for making political decisions, for 
+example, during an election. By contrast, the intimate sphere was expected to be 
 reserved for close family and friends, where things you did or said were 
-expected to stay private. 
+expected to stay private. A simple distinction, but one that seems to have eluded us in recent years.
 
-In the 18^th^ and 19^th^ century, Jeremy Bentham published his *"Panopticon 
-Writings"* (1787), which explored the idea of removing a person's privacy as a
+In 1787, Jeremy Bentham published his *"Panopticon 
+Writings"*, which explored the idea of removing a person's privacy as a
 method of punishment, and a coercive tool in his imagined "panopticon". The 
-Panopticon was a prison designed such that a warden would, at all tines, be 
-able to observe any prisoner of their choosing.
-
-Bentham argued that this was ideal for a prison, as it would ensure that no 
+Panopticon was a glass-panelled prison designed such that a warden would, at all times, be 
+able to observe any prisoner of their choosing, whilst ensuring this total lack of privacy was 
+palpable to the unfortunate prisoners. Picture the Big Brother house in 18th century England, 
+and you get the idea. Bentham argued that this was the ideal design for a prison, as it would ensure that no 
 prisoner could ever "step out of line" and therefore, if the prisoner wanted
-a pleasant life, would behave as the model prisoner in all observable respects.
+a pleasant life, would behave as the model prisoner in all observable respects. Unable to hide, the prisoner
+necessarily must fear inevitable punishment for any misbehaviour. 
 
-Curiously, Bentham also in his *Panopticon Writings* also brings about the simple
-issue with this setup. He expresses it as *quis custodiet ipsos custodes?*, 
-which translates literally to "Who guards the guards?" or more idiomatically:
-*"Who watches the watchmen?"*, which many readers will be familiar with.
+Interestingly, Bentham addresses the logical conclusion of this setup, expressing it as *quis custodiet ipsos custodes?*, 
+literally "Who guards the guards?" or more idiomatically: *"Who watches the watchmen?"*. For this constant surveillance to work, we 
+must presume the ultimate authority is completely, flawlessly benevolent, and if that were the case for our species, we 
+wouldn't need to discuss the usefulness of surveillance in deterring crime and curbing undesirable human behaviour. 
 
-In short, Bentham argues that a removal of privacy leads to improved control of
-those who are watched, and that this is an ideal tool for a prison.
 
-The idea of the removal has also been explored in fiction, in Franz Kafka's 
-*The Trial*, in George Orwell's *Nineteen Eighty-Four*, Huxely's *A Brave New 
-World*, Ray Bradbury's *Fahrenheit 451*, Philip K. Dick's *A Scanner Darkly* and 
-many of Cory Doctorow's books. 
+However,the idea of the removal of privacy extends beyond rhetoric, into the many worlds of fiction. A brief overview of 
+some of the best explorations of the topic include Franz Kafka's *The Trial*, in George Orwell's *Nineteen Eighty-Four*, Huxely's *A Brave New 
+World*, Ray Bradbury's *Fahrenheit 451*, Philip K. Dick's *A Scanner Darkly* and many of Cory Doctorow's books. 
 
-Almost invariably, these are set in some form of dystopia, which could be a 
+A chillingly common factor in all these narratives is their dystopian setting, often inferring authoritarian forms of goverment
+and an unhappy, mindless and impotent society, which could be a 
 reflection on how strongly these authors fear the control that a state or a 
 corporation may choose to impose on their lives, should their privacy be taken 
 away.
@@ -65,18 +65,16 @@ away.
 Unfortunately, this is not just a thought experiment. Several states have 
 experimented with removing their citizen's rights to privacy, leading to severe
 human rights breaches. The major ones of the 20^th^ century which spring to 
-mind are the Nazis and the Stasi of East Germany. Many people who lived with 
-these regimes and secret police forces are now advocates of strong privacy 
-laws.
+mind are the Nazis and the Stasi of East Germany. However, although the Nazis are the 
+poster party for barbaric and unforgiveable human rights violations and unforgiving
+governance of the German people, our own governments are turning their techniques on their
+citizens, using thinly-veiled excuses such as safety, security, and the "nothing to hide" argument.
 
 Nothing To Hide 
 ===============
 
-Typically, this argument comes in one of two forms. A simple and a complex 
-form, which has many simple and obvious retorts which render it unusable as
-an argument in open debate. We will breifly outline the simple example, and
-it's retorts, followed by the more complex version of this argument, and the 
-retorts to it.
+Typically, this argument comes in one of two forms, which I will call simple and extended. 
+Here's a brief outline of each form, and some retorts which highlight the flaws of each argument.
 
 The Simple Argument
 -------------------
@@ -90,61 +88,72 @@ problems with it:
 
   * It is an expression of a personal opinion: You don't fear the sate,
     because your views typically align with the views of the state. This does
-    not mean that your views can be expanded to the whole populace.
+    not mean that your views can be expanded to the whole populace. You only need
+    to look as far as Facebook to see that we all have different ideas of what
+    we feel comfortable sharing, and who with; for some, every relationship change
+    necessitates a public broadcast, whereas others carefully edit their online persona:
+    it's all a matter of perspective. 	
 
-  * It makes no distinction as to who sees any information about your person.
+  * It makes no distinction as to who sees any information about your person. "Information" 
+    isn't necessarily abstract; so, for example, you might be perfectly happy to share
+    physical information about your naked body with your partner or spouse, but not so
+    much with your boss or mother-in-law.
 
   * The argument makes no concessions for the vulnerable, for example, children
-    or the disabled.
+    or the disabled. 
 
-  * There is an assumption that privacy has no value to anyone.
+  * There is an assumption that privacy has no value to anyone aside from as a protection from punishment.
 
-  * It is a subtle *ad hominen* attack; the implication being that the opponent
-    to the argument is some form of criminal, or that they have something to 
-    hide, which is an assumed negative by the argument.
+  * It is a subtle *ad hominen* attack. "Ad hominen" essentially refers to attacking the speaker,
+    not the words or arguments they use; here, the implication is that anyone pro-privacy has 
+    something to hide, and carries with it connotations of immorality and illegality.
 
   * A *false dichotomy* can quickly be constructed, wherein, one can only have 
-    privacy or security, but not both. This is not the case.
+    privacy or security, but not both. This is not the case, as there are plenty 
+    of ways to maintain security without impinging on civil liberties, and there 
+    are many arguments which discredit the effectiveness of surveillance on crime reduction.
 
 Simply put, this basic version of the argument is extremely weak, and does not
-stand up to a cursory inspection.
+stand up to even a cursory inspection.
 
 The Extended Argument
 ---------------------
 
-In more modern circles, there is a much more advanced form of the argument,
-which is more difficult to deflect, however, there do exist retorts. 
-Unfortunately, these retorts and concerns are often derided by surveillance
-proponents are mere "paranoia". 
+In more modern circles, there is a much more advanced form of the argument, 
+which takes into account the advances we have made in technology, and the kind of 
+surveillance we are able to conduct. These arguments essentially try to negate the individual impact
+of surveillance, and make it seem as though surveillance doesn't necessarily interfere with the 
+privacy of individuals, on what is assumed to be an "important" level. Some examples of this attempt to
+justify surveillance and show it in harmony with privacy (at least for those with "nothing to hide") are as follows:  
+ 
 
-The modern, extended version of the argument usually revolves around a few 
-salient points:
-
-  * Only "essential" data will be collected
+  * Only "essential" data will be collected (though the lack of definition here is not due to my time constraints:
+    this point is rarely clarified, and the ambiguity, when this is used to sift through our personal information, is daunting).
 
   * It will be *automatically filtered*, thereby ensuring that the majority of
-    the data is *not* seen by humans
+    the data is *not* seen by humans. However, knowing my information is handled electronically isn't any better: it just 
+    tells me that the data is more permanently stored.
 
   * The humans that do see the data will not care about any "embarrassing" data 
-    they may be exposed to.
+    they may be exposed to. Whilst I applaud their apparent impartialism, this is not really a comfort.
 
   * It is unlikely that any one person who is checking the output of the data 
-    will see the information of a person who they personally know.
+    will see the information of a person who they personally know. Again, not a comfort; although 
+    the information we share is often dependent on the context of our relationship with the other party 
+    (e.g. our spouse or mother-in-law), the complete lack of a personal relationship does not make me comfortable 
+    to share certain information about myself.
 
 Attacking this form of the argument is much harder. At first glance, it seems 
-to balance the needs of privacy with the needs of security, which mostly 
-eliminates the false dichotomy issue, it ensures only those who are some how
-"trustworthy" only see any data which is deemed suspicious, it allows for 
-privacy to be valued by many people, and ensures that (by and large) the only
-people who have their privacy violated are those who are some how suspicious.
-
-However, this argument does have some serious issues. Firstly, it assumes that
-everyone with access to the data (Law enforcement officers, system 
-administrators, judges, court officials, etc.) are perfect and benevolent. This
-is known to be false, as humans are only human! People make mistakes and leave 
-CDs of data on trains, some police officers take bribes, and so on. We also 
-now know that data from security agencies has been used in ways that breach the
-remit of the program, for instance:
+to balance the needs of privacy with the needs of security, 
+eliminating the false dichotomy issue by it ensuring only those who are
+"trustworthy" can handle the data, and that even then, only "suspicious" data is targeted. Essentially, this is
+the setup of the panopticon: the infallible and benevolent watch the criminal and suspicious, and everyone else is left
+alone. However, as we neither have perfectly benevolent humans to do the watching, nor a perfect system for filtering
+what information is deemed "suspicious" or "safe", this balancing act is ultimately flawed, and the dichotomy is restored. For the curious,
+*Bayes' Theorem* discusses the problem of false positives in any sweeping search of information, and how this effects society in much
+larger ways, having a knock-on effect in the way we treat suspects, who is identified as such, and how much time we waste following red
+herrings based on mass surveillance. However, if you're more into your history than maths, there are other ways to see the potential havoc
+widespread data collection has caused. Examples of the potential misuse for this data are numerous, but here are a few more poignant ones:
 
   * KGB surveillance programs were used extensively to harass and discredit any
     political opponents.
@@ -157,60 +166,26 @@ remit of the program, for instance:
     even going so far as to attempt to black mail him, and purportedly writing 
     him at least one letter urging him to kill himself.
 
-Clearly, the assumption that those with access to the data *right now* are 
-trustworthy is false, human history shows this to be the case. However, we also
-know that if the data isn't "just" sniffed, that is, if it is not ephemeral, 
-then the data must stay around in some form for a length of time. Since you do 
-not control the laws of the future, you do not know when that data will be 
-abused.
 
-Data can also be fabricated to discredit a person. This relates to the 
-trustworthiness of individuals, but it if the system is regarded as "gospel", 
-then anyone who is a target may have data about them created in order to 
-discredit or harass them. This is quite closely related to the fact that data 
-could also be in error, leading to an unnecessary and potentially intrusive
-investigation. And usually, once an allegation has been made against a person,
-in the community's mind, they are always potentially guilty.
-
-The automated sniffing will likely have a few issues. Firstly, how does the 
-state plan to process that much data efficiently? How long will the data be 
+As well as human fallibility, there are also technical difficulties to be explored 
+and considered when it comes to the automated sifting of information. How do we 
+plan to process that much data efficiently? How long will the data be 
 stored for? Who exactly will see the data, and how will the security of the 
 data be ensured?
 
-However, those are "only" practical concerns. There are much deeper concerns
-with this system.
-
-Who determines what constitutes suspicious behaviour? In the aftermath of
-the 2013 Boston Marathon Bombings, many people would not of even heard of 
-"pressure cooker bombs" and would likely have looked up what this means, 
-and if they are common weapons. Should this mean that they should be 
-subject to an investigation, simply because they are curious about current
-affairs?
-
-Due to *Bayes' Theorem*, if there is a low incidence of those in society who 
-are actually a threat worthy of investigation, then there will be a 
-disproportionate number of false-positives. That is, a very large number of
-otherwise "normal" or "innocent" people will be flagged for investigation,
-which is a violation of an innocent person's privacy and could lead to more 
-invasive forms of surveillance or even arrest. This diverts resources from 
-where they are really necessary. It also means that the system cannot hope 
-to catch all threats, as a few will invariably slip through the net and wreak 
-havoc.
+The practical and moral implications are far-reaching, and the effectiveness of invasive surveillance is questionable at best. However,
+there are also some disturbing observations to make as to the demographic split between those in favour, and those against, the all-seeing
+eyes of CCTV, Prism, and the panoptic society. 
 
 Conclusion
 ==========
 
-This argument can actually be characterised by a simple observation. That is 
-that proponents of privacy typically value long term security from the state 
-and any other potentially "controlling" entities, whereas proponents of 
-surveillance typically value short term security against a vague threat over
-a very real threat to privacy, which they do not deem to have any value.
+Privacy proponents value the human rights of dignity, privacy and autonomy, whilst expecting the state to provide protection
+from the evils of the world; however, surveillance proponents fear that privacy grants a hiding space for wannabe terrorists. 
+However, without privacy, we lose our humanity. Our ability to think and express freely is impeded by the idea of being watched
+by the powers that be. In short, if we are all being watched, we cannot help but fear punishment for misbehaviour; but where suspicion
+is not a well-defined, it is impossible to know when we will be punished, and what for: we simply must hope that our transparent thoughts
+are not treated as misdemeanours by the authorities that watch us. 
 
-Overall, the Pirate Party typically sides with the proponents of privacy, 
-usually citing the above arguments, along with the questionable efficacy of 
-more pedestrian forms of surveillance (e.g. CCTV). I feel that I have to side
-with them, privacy is one of the pillars of democracy; without it the ability 
-to freely dissent against the state is severely limited, and human rights 
-violations become almost inevitable -- especially when surveillance is carried
-out at scale.
-
+If the watchmen are immune to being watched, then the system is inherently flawed in its hypocrisy; until we are a perfect society
+with no need to watch each others' behaviour, then there should be no watchmen at all. 
