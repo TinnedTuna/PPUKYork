@@ -12,8 +12,7 @@ more common "Nothing to Hide" argument, in which those who believe in state or
 corporate surveillance claim that "if you have nothing to hide, then you have 
 nothing to fear." However, this argument makes large assumptions as to the meaning
 of "nothing to hide", the purpose of privacy and how it applies within our legal and moral
-frameworks, and so in this article we will explore the various aspects of privacy and surveillance,  
-and present an overview of several existing counter-arguments and counter-examples.
+frameworks, and so in this article we will explore the various aspects of privacy and surveillance, and present an overview of several existing counter-arguments and counter-examples.
 
 This article will leave out a huge debate which deals with other difficulties
 surrounding privacy. These difficulties primarily revolve around the trouble 
