@@ -31,9 +31,6 @@ more depth.
 
 ### Initial Discussions
 
-Phil let Turner know that the stall table for campaigning had been bought at a 
-cost of £35, and the accounts therefore need updating.
-
 Sephy poses the question to the floor of what do the attendees feel is the most
 important issue to themselves right now.
 
@@ -208,7 +205,7 @@ next local elections are in 2015.
 
 Sephy asks how we might re-educate the public to remove the assumption that 
 money confers legitimacy. Phil says that the best way to do this is via 
-grassroots work, for example Loz Kaye & the Ancoats Dispensary.
+grassroots work, for example Loz Kaye \& the Ancoats Dispensary.
 
 Turner simply asks "How do we deprive them of legitimacy?"
 
@@ -255,7 +252,7 @@ Sephy says that international finance is divorced from the working classes, so
 they simply don't see it, and therefore don't think of it as a problem. She 
 also says that whilst living in China, segregation was *nice*, a sort of relief
 from constantly interpreting everything that was said. She also wonders if 
-there are enough funds for the integration & language programs.
+there are enough funds for the integration \& language programs.
 
 Adam wonders who has responsibility for helping these people integrate with our
 culture? He feels that in the case of asylum seekers, it is clearly our 
@@ -285,8 +282,39 @@ that immigration laws are typically based on our relation with the countries in
 question.
 
 46bit queries who will be fighting for the immigrants? They have no 
-representation.
+representation, and then goes on to use the American immigration system as an
+example of a fairly poorly implemented system.
 
+Sephy notes that we have a state where emotions around immigration (not
+evidence!) are directing policy decisions.
+
+Mike queries what is the role of the government? To be representative of the 
+people's opinions, or to serve the people in the best possible way? Sephy 
+feels that the government has a responsibility to the civil rights of its 
+people, but that we should investigate why people have opinions that differ so
+much from the evidence. What can we do about this?
+
+46bit thinks that after school clubs can help, and that they may even improve 
+the job prospects of attendees, Sephy would rather just improve the education
+system in general.
+
+46bit also thinks that getting people to laugh about the issues may highlight
+the absurdity of it all, leading to better understanding. Sephy would like to 
+make it a more human issue whereas Mike would rather have better critical 
+thinking skills taught in school.
+
+Sephy has seen many youngsters simply parroting what they've been told by their
+parents without much thought on the issue themselves. Adam would like more and 
+better research into the effects of immigration on our society. Turner mentions
+that he is currently compiling a large set of research papers on the issue of
+immigration.
+
+46bit is surprised by the lack of outrage surrounding tax loopholes for large
+companies. Sephy thinks that the government simply will not talk about the 
+issue, but that we should. We should get rid of misinformation, and perhaps aim
+to punish deliberate misinformation.
+
+Nick feels that we should simply challenge misinformation aggressively.
 
 Actions
 =======
@@ -301,3 +329,13 @@ Cake evening. The next meeting will be announced by Sephy.
 
 Any Other Business
 ==================
+
+  * Phil bought a table.
+
+Quote of The Week
+=================
+
+> A famous bon mot asserts that opinions are like arseholes in that everyone 
+> has one. There is great wisdom in this but I would add that opinions differ
+> significantly from arseholes in that yours should be constantly and 
+> thoroughly examined. --- Tim Minchin
