@@ -5,7 +5,7 @@
 Attendees
 =========
 
-  * Leanne Ainsworth (Cosette181)
+  * Leanne Cooke (Cosette181)
   * Phil Cooke (Tempest3K)
   * Persephone Hallow (Seffles, chair)
   * Dan Turner (Tinned_Tuna, secretary)
@@ -52,7 +52,7 @@ influence on the legislature of the country, he specifically mentions those in
 the house of lords, for example, Bishops, leading to a gender imbalance.
 
 Sephy makes the point that England and Iran are the only countries with 
-religious leaders with direct political power.
+religious leaders with automatic political power.
 
 46bit would like a better research process -- if an MP requests some research
 (e.g. on behalf of a constituent), it is typically kept a secret.
@@ -69,8 +69,8 @@ Phil would like a lower bar of entry for politics. There is a financial
 discriminant at play. Nick mentions the cost of the PCC elections -- £5,000
 just to run.
 
-Leanne would like more recognition of early years teachers and a better salary.
-Early years teachers typically put up with (literally) more shit in a day, 
+Leanne would like more recognition of early years workers and a better salary.
+Early years workers typically put up with (literally) more shit in a day, 
 and are on minimum wage. Even after expensive qualifications, they still often
 only earn minimum wage.
 
@@ -137,7 +137,7 @@ that people are just queuing up to be listened to, but they're really queueing
 up to be ignored.
 
 Sephy describes Loz's "Dropped a Bollock" speech at the party conference. Why 
-politicians juggling bollocks!?
+are politicians juggling bollocks!?
 
 Leanne voted for the LibDems, but they fucked up tuition fees, Sephy says that
 they should be held accountable for their elections promises, even when (as 
@@ -153,7 +153,7 @@ Turner vigorously suggests protest, even "illegal" protests, and feels that no
 protest (for a suitably non-violent definition of protest) can be illegal, 
 regardless of state consent for the protest.
 
-Sephy wonders if DDoS should a legitimate form of protest? Or if, by Turner's
+Sephy wonders if DDoS should be a legitimate form of protest? Or if, by Turner's
 definition, it is a legitimate (but currently illegal) form of protest. Adam 
 notes that most people are afraid of protest, which he attributes primarily to
 a lack of understanding.
