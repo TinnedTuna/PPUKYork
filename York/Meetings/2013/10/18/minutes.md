@@ -261,6 +261,32 @@ Adam wonders who has responsibility for helping these people integrate with our
 culture? He feels that in the case of asylum seekers, it is clearly our 
 responsibility.
 
+In reference to asylum seekers, Sephy notes that most people don't seem to know
+what asylum seekers are entitled to, and mentions the various violations of 
+their human rights, referencing the "prove you're gay" fiasco.
+
+Nick and 46bit confirm that the "prove you're gay" issue is in practice. Sephy
+makes the argument that to prove your sexuality requires a consenting third 
+party, and what about a person's basic rights of human dignity?
+
+Adam feels that we should just let these people in by default. Turner gives
+another example; asexuality -- how do you prove that you have no widely
+observable sexuality? Nick adds another argument to this; what if you're 
+straight and have been misrepresented as gay, and are now a target?
+
+Sephy gets us back on topic; stating that people can't deal with
+misinformation and a general lack of information.
+
+46bit asks what kind of people are actually working for the UKBA? Sephy posits 
+that this would be a self-selecting position.
+
+Turner asks if depersonalising the applications helps, while Sephy mentions 
+that immigration laws are typically based on our relation with the countries in
+question.
+
+46bit queries who will be fighting for the immigrants? They have no 
+representation.
+
 
 Actions
 =======
