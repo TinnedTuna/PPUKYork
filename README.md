@@ -18,7 +18,7 @@ create a date directory for it under the location directory, for example,
     mkdir -p Leeds/Meetings/2013/09/02
     cp TEMPLATE.md Leeds/Meetings/2013/09/02/minutes.md
 
-Once this is done, feel free to edit ``Leeds/Meeting/s2013/09/02/minutes.md''.
+Once this is done, feel free to edit ``Leeds/Meeting/2013/09/02/minutes.md''.
 
 When writing the minutes, please fill out all sections of the template, as
 this ensures a consistent format for those reading through the minutes.
